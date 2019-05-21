@@ -1,0 +1,6 @@
+1. npm should be download
+2. npm install vue
+3. npm install -g vue-cli
+4. npm install vue-router
+5. npm install echarts -S
+6. npm install element-ui -S
